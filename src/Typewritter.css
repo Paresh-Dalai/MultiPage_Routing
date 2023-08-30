@@ -1,0 +1,14 @@
+
+
+
+.TypeWritter {
+    font-family: sans-serif;
+    font-size: 2rem;
+    text-align:justify;
+    display: flex;
+    justify-content: center;
+    align-items:start;
+    min-height: 100vh;
+    background: rgb(23, 89, 74);
+    width: 100%;
+}

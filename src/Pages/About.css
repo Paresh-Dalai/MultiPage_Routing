@@ -1,0 +1,56 @@
+
+
+.Header{
+    line-height: 5rem;
+    
+}
+.Header h1{
+    font-size: 3rem;
+}
+
+.first_Section{
+    height: 13rem;
+    width: 100%;
+    line-height: 2rem;
+    border: 3px solid red;
+    background-color: rgb(23, 89, 74);
+} 
+.first_Section , .second_Section , .third_Section, 
+.Fourth_Section , .Fifth_Section p{
+    font-size: large;
+    
+}
+.second_Section{
+    height: 13rem;
+    width: 100%;
+    line-height: 2rem;
+    border: 3px solid red;
+    background-color: rgb(142, 172, 80);
+    margin-top: 2rem;
+    color: rgb(33, 51, 99);
+}
+.third_Section{
+    height: 13rem;
+    width: 100%;
+    line-height: 2rem;
+    border: 3px solid red;
+    background-color: rgb(23, 89, 74);
+    margin-top: 2rem;
+}
+.Fourth_Section {
+    height: 13rem;
+    width: 100%;
+    line-height: 2rem;
+    border: 3px solid red;
+    background-color: rgb(142, 172, 80);
+    margin-top: 2rem;
+    color: rgb(33, 51, 99);
+}
+.Fifth_Section{
+    height: 13rem;
+    width: 100%;
+    line-height: 2rem;
+    border: 3px solid red;
+    background-color: rgb(23, 89, 74);
+    margin-top: 2rem;
+}

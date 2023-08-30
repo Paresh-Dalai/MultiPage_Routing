@@ -1,0 +1,21 @@
+
+
+.Contact_Page form{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+   
+}
+.Contact_Page form input,textarea,button{
+    padding: 2rem;
+    margin-top: 2rem;
+    font-size: large;
+}
+
+.Contact_Page button{
+    background-color: rgb(211, 208, 79);
+    color:rgb(23, 89, 74);
+    
+  
+
+}

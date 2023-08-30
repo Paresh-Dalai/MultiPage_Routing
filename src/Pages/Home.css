@@ -1,0 +1,38 @@
+
+body{
+    background-color: rgb(33, 51, 99);
+    color: rgb(211, 208, 79);
+    margin: 5% 10%;
+}
+.Header {
+   text-align: center;
+   align-items: center;
+   line-height: 0.8rem;
+}
+.Header h1{
+    font-size: 5rem;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.Elements{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+
+   
+}
+.Elements span {
+    padding: 5%;
+    font-size: 2rem;
+    font-family:'Times New Roman', Times, serif;
+    margin-top: 2%;
+
+}
+.Elements span:hover{
+    cursor: pointer;
+    transform: scale(1.2);
+}
+.Second_section{
+    height: 30rem;
+    width: 100%;
+    background-color:rgb(23, 89, 74);
+}
